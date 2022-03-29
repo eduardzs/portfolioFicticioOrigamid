@@ -7,6 +7,10 @@
     gap: 6.25rem;
 }
 
+.empresa:hover{
+    border-right: 2px solid #67dd0a;
+}
+
 .experiencia .subtitulo{
     color: #e0e0e0;
 }

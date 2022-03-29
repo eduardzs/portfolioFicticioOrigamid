@@ -21,6 +21,11 @@
     text-decoration: none;
     color: #141414;
     display: block;
+    border: 1px solid transparent;
+}
+
+.header-menu li a:hover{
+    color: #a3a3a3;
 }
 
 @media (max-width: 800px){
@@ -32,5 +37,9 @@
     .header a{
         background-color: #f5f5f5;
         border-radius: 0.25rem;
+    }
+    .header-menu li a:hover{
+        border: 1px solid #8844ee;
+        color: #141414;
     }
 }
