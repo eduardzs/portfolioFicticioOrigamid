@@ -1,6 +1,6 @@
 <h2>Portfolio Fictício da Origamid</h2>
 
-<a href="https://eduardzs.github.io/eduardzs-portfolio/" target="_blank">Link do Projeto<a>
+<a href="https://eduardzs.github.io/portfolioFicticioOrigamid/" target="_blank">Link do Projeto<a>
 
 <p>Esse projeto foi feito visando a consolidação e a conclusão de um desafio proposto no curso de HTML & CSS da plataforma Origamid.</p>
 
