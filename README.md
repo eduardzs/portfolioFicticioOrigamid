@@ -12,7 +12,7 @@
 
 
 <div style="width: 100%;" align="center">
-    <img src="./img/portfolio" alt="Imagem do Projeto">
-    <img src="./img/portfolio2" alt="Imagem do Projeto">
-    <img src="./img/portfolio3" alt="Imagem do Projeto">
+    <img src="./img/portfolio.png" alt="Imagem do Projeto">
+    <img src="./img/portfolio2.png" alt="Imagem do Projeto">
+    <img src="./img/portfolio3.png" alt="Imagem do Projeto">
 </div>
