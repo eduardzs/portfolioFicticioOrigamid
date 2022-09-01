@@ -7,7 +7,7 @@
 <p>Para sua construção foram usados apenas ás tecnologias HTML & CSS.</p>
 
 <div style="width: 100%;" align="center">
-    <img src="./img/portfolio.gif" alt="GIF do Projeto">
+    <img src="./img/portfoliogif.gif" alt="GIF do Projeto">
 </div>
 
 
