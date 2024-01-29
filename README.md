@@ -1,4 +1,4 @@
-<h2>Portfolio Fictício da Origamid</h2>
+# Portfolio Fictício da Origamid
 
 <a href="https://eduardzs.github.io/portfolioFicticioOrigamid/" target="_blank">Link do Projeto<a>
 
